@@ -1,0 +1,1 @@
+Pas de Lijst-hiërarchie die je in eerdere oefeningen gemaakt hebt aan zodat ze een generisch elementtype heeft. Pas ook de uitwendige en de inwendige iterator aan zodat ze generisch worden. Zorg dat de inwendige iterator een zo algemeen mogelijk parametertype heeft.
