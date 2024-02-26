@@ -1,4 +1,4 @@
-	package HZ2_TimeOfDay;
+package HZ2_TimeOfDay;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -11,6 +11,7 @@ class TimeOfDayTest {
 		TimeOfDay time = new TimeOfDay(10, 30);
         assertEquals(10, time.getHours());
         assertEquals(30, time.getMinutes());
+        assertEquals(630, time.getMinutesSinceMidnight());
 	}
 
 }
